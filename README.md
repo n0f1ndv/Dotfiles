@@ -1,2 +1,2 @@
 # Dotfiles
-My dotfiles :)
+Catppuccin rice
